@@ -1,0 +1,162 @@
+/* rule-set #1: Cryptocurrencies will revolutionize the financial industry. */
+body {
+    background-color: rgb(185, 185, 216); 
+}
+
+/* rule-set #2: Best Cryptocurrencies. */
+.css-classes {
+    background-color: rgb(180, 174, 174);
+}
+
+/* rule-set #1 */
+#number-one{
+    color: red;
+}
+
+/* rule-set #2 */
+#number-two{
+    font-size: 16px;
+}
+
+/* 8 */
+.padding-class{
+    border:2px solid red;
+        margin: 50px 50px 50px 50px;
+        padding: 20px 20px 20px 40px;
+}
+
+#padding-experiment{
+    border: 2px solid yellow;
+    margin: 50px 50px 50px 50px;
+    /*
+    padding-top: 20px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+    padding-left: 20px;
+*/
+padding: 20px 20px 20px 20px;
+}
+
+/* 4 */
+
+p{
+    font-family: "Times New Roman", Times, serif;
+}
+
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h2{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+/* 3 */
+h1{
+    text-align: center;
+}
+/*this sets the background color of the entire body*/
+body{
+    background-color: lightgray;
+}
+
+.example1{
+    height: 150px;
+    width: 50%;
+    background-color: cornflowerblue;
+}
+
+body{
+    background-color: lightblue;
+}
+
+.wrapper{
+    margin: 5px;
+}
+
+h1{
+    text-align: center;
+}
+
+#title-p{
+    text-align: center;
+}
+
+.border-style li{
+    margin: 5px;
+} 
+
+.border-style li:nth-child(1){
+    border-style: dotted;
+} 
+
+.border-style li:nth-child(2){
+    border-style: dashed;
+}
+
+.border-style li:nth-child(3){
+    border-style: solid;
+}
+
+.border-style li:nth-child(4){
+    border-style: double;
+}
+
+.border-style li:nth-child(5){
+    border-style: groove;
+}
+
+.border-style li:nth-child(6){
+    border-style: ridge;
+}
+
+.border-style li:nth-child(7){
+    border-style: inset;
+}
+
+.border-style li:nth-child(8){
+    border-style: none;
+}
+
+.border-style li:nth-child(9){
+    border-style: hidden;
+}
+
+.border-style li:nth-child(10){
+    border-style: dotted dashed solid double;
+}
+
+.border-width p{
+    border-style: solid;
+    border-width: 5px;
+}
+
+#four-widths{
+    border-style: solid;
+    border-width: 2px 10px 4px 20px;
+}
+
+/* 7 */
+.border-color li:nth-child(1){
+    margin: 5px;
+    border-style: solid;
+    border-color: blue;
+}
+
+.border-color li:nth-child(2){
+    margin: 5px;
+    border-style: solid;
+    border-color: #eee;
+}
+
+.border-color li:nth-child(3){
+    margin: 5px;
+    border-style: solid;
+    border-color: rgb(100,100,100);
+}
+
+.border-color li:nth-child(4){
+    margin: 5px;
+    border-style: solid;
+    border-color: transparent;
+}
